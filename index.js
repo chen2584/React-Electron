@@ -13,6 +13,6 @@ const App = () => (
 ReactDOM.render(<App />, document.getElementById('root'));
 
 // Hot Module Replacement
-if (module.hot) {
-  module.hot.accept();
-}
+//if (module.hot) {
+//  module.hot.accept();
+//}
